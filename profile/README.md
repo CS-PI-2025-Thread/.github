@@ -15,4 +15,8 @@ Equipe criada para o desenvolvimento do projeto proposto nas aulas de Projeto In
 # 📱Tecnologias
 * **Front-end:** ReactJs
 * **Back-end:** Java com SpringBoot e MySql
-* **Integrações:** ViaCEP, GymPass ...
+* **Integrações:** ViaCEP, GymPass, API da Catraca
+
+# Ferramentas e Serviços
+* **Visual Studio Code:** Desenvolvimento de código
+* **Postman:** Testes de API
