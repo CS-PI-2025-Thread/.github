@@ -17,6 +17,6 @@ Equipe criada para o desenvolvimento do projeto proposto nas aulas de Projeto In
 * **Back-end:** Java com SpringBoot e MySql
 * **Integrações:** ViaCEP, GymPass, API da Catraca
 
-# Ferramentas e Serviços
+# 🔨 Ferramentas e Serviços
 * **Visual Studio Code:** Desenvolvimento de código
 * **Postman:** Testes de API
